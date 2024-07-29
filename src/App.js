@@ -1,9 +1,10 @@
-import ApiTheRing from "./Components/Api-the-ring";
+import ImageBanner from "./Components/ImageBanner";
 
 function App() {
   return (
     <div className="App">
-      <ApiTheRing/>
+      
+      <ImageBanner/>
       
     </div>
   );
